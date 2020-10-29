@@ -1,0 +1,286 @@
+
+* * * SIMULATION BEGINS * * *
+
+Station 2: In-Connection set to conveyor 1
+Station 0: In-Connection set to conveyor 2
+Station 2: Out-Connection set to conveyor 2
+Station 0: Out-Connection set to conveyor 0
+Station 1: In-Connection set to conveyor 0
+Station 2: Workload set. Station 2 has 4 package groups to move
+Station 1: Out-Connection set to conveyor 1
+Station 0: Workload set. Station 0 has 2 package groups to move
+Station 1: Workload set. Station 1 has 3 package groups to move
+Station 2: holds lock on (granted access) to conveyor 1
+Station 1: holds lock on (granted access) to conveyor 0
+Station 0: holds lock on (granted access) to conveyor 2
+Station 2: unlocks (released access) to conveyor 1
+Station 1: unlocks (released access) to conveyor 0
+Station 0: holds lock on (granted access) to conveyor 0
+Station 0: successfully moves packages on conveyor 0
+Station 2: holds lock on (granted access) to conveyor 2
+Station 2: unlocks (released access) to conveyor 2
+Station 1: holds lock on (granted access) to conveyor 0
+Station 1: unlocks (released access) to conveyor 0
+Station 2: holds lock on (granted access) to conveyor 2
+Station 2: unlocks (released access) to conveyor 2
+Station 0: has 1 package groups to move
+
+
+Station 1: holds lock on (granted access) to conveyor 0
+Station 0: unlocks (released access) to conveyor 2
+Station 2: holds lock on (granted access) to conveyor 1
+Station 1: holds lock on (granted access) to conveyor 1
+Station 0: unlocks (released access) to conveyor 0
+Station 2: unlocks (released access) to conveyor 1
+Station 1: successfully moves packages on conveyor 1
+Station 0: holds lock on (granted access) to conveyor 0
+Station 1: has 2 package groups to move
+
+
+Station 0: unlocks (released access) to conveyor 0
+Station 1: unlocks (released access) to conveyor 0
+Station 2: holds lock on (granted access) to conveyor 1
+Station 0: holds lock on (granted access) to conveyor 2
+Station 1: unlocks (released access) to conveyor 1
+Station 2: holds lock on (granted access) to conveyor 2
+Station 0: unlocks (released access) to conveyor 2
+Station 2: successfully moves packages on conveyor 2
+Station 0: holds lock on (granted access) to conveyor 2
+Station 0: unlocks (released access) to conveyor 2
+Station 2: has 3 package groups to move
+
+
+Station 1: holds lock on (granted access) to conveyor 1
+Station 2: unlocks (released access) to conveyor 1
+Station 0: holds lock on (granted access) to conveyor 0
+Station 1: unlocks (released access) to conveyor 1
+Station 2: unlocks (released access) to conveyor 2
+Station 0: unlocks (released access) to conveyor 0
+Station 1: holds lock on (granted access) to conveyor 0
+Station 1: holds lock on (granted access) to conveyor 1
+Station 0: holds lock on (granted access) to conveyor 0
+Station 1: successfully moves packages on conveyor 1
+Station 0: unlocks (released access) to conveyor 0
+Station 2: holds lock on (granted access) to conveyor 1
+Station 2: unlocks (released access) to conveyor 1
+Station 0: holds lock on (granted access) to conveyor 0
+Station 1: has 1 package groups to move
+
+
+Station 0: unlocks (released access) to conveyor 0
+Station 1: unlocks (released access) to conveyor 0
+Station 2: holds lock on (granted access) to conveyor 1
+Station 0: holds lock on (granted access) to conveyor 2
+Station 1: unlocks (released access) to conveyor 1
+Station 2: holds lock on (granted access) to conveyor 2
+Station 0: unlocks (released access) to conveyor 2
+Station 2: successfully moves packages on conveyor 2
+Station 1: holds lock on (granted access) to conveyor 1
+Station 2: has 2 package groups to move
+
+
+Station 1: unlocks (released access) to conveyor 1
+Station 0: holds lock on (granted access) to conveyor 2
+Station 2: unlocks (released access) to conveyor 1
+Station 1: holds lock on (granted access) to conveyor 0
+Station 0: holds lock on (granted access) to conveyor 0
+Station 2: unlocks (released access) to conveyor 2
+Station 0: successfully moves packages on conveyor 0
+Station 1: unlocks (released access) to conveyor 0
+Station 0: has 0 package groups to move
+
+
+Station 2: holds lock on (granted access) to conveyor 2
+Station 2: unlocks (released access) to conveyor 2
+Station 1: holds lock on (granted access) to conveyor 0
+Station 1: unlocks (released access) to conveyor 0
+Station 2: holds lock on (granted access) to conveyor 2
+
+* * Station 0: Workload successfully completed. * *
+
+
+Station 2: unlocks (released access) to conveyor 2
+Station 0: unlocks (released access) to conveyor 2
+Station 1: holds lock on (granted access) to conveyor 0
+Station 0: unlocks (released access) to conveyor 0
+Station 2: holds lock on (granted access) to conveyor 1
+Station 1: holds lock on (granted access) to conveyor 1
+Station 2: unlocks (released access) to conveyor 1
+Station 1: successfully moves packages on conveyor 1
+Station 2: holds lock on (granted access) to conveyor 1
+Station 1: has 0 package groups to move
+
+
+Station 2: unlocks (released access) to conveyor 1
+
+* * Station 1: Workload successfully completed. * *
+
+
+Station 1: unlocks (released access) to conveyor 0
+Station 2: holds lock on (granted access) to conveyor 1
+Station 1: unlocks (released access) to conveyor 1
+Station 2: holds lock on (granted access) to conveyor 2
+Station 2: successfully moves packages on conveyor 2
+Station 2: has 1 package groups to move
+
+
+Station 2: unlocks (released access) to conveyor 1
+Station 2: unlocks (released access) to conveyor 2
+Station 2: holds lock on (granted access) to conveyor 1
+Station 2: holds lock on (granted access) to conveyor 2
+Station 2: successfully moves packages on conveyor 2
+Station 2: has 0 package groups to move
+
+
+
+* * Station 2: Workload successfully completed. * *
+
+
+Station 2: unlocks (released access) to conveyor 1
+Station 2: unlocks (released access) to conveyor 2
+
+* * * * ALL WORKLOADS COMPLETE * * * SIMULATION ENDS * * * *
+
+
+* * * SIMULATION BEGINS * * *
+
+Station 2: In-Connection set to conveyor 1
+Station 0: In-Connection set to conveyor 2
+Station 1: In-Connection set to conveyor 0
+Station 2: Out-Connection set to conveyor 2
+Station 0: Out-Connection set to conveyor 0
+Station 1: Out-Connection set to conveyor 1
+Station 2: Workload set. Station 2 has 4 package groups to move
+Station 0: Workload set. Station 0 has 2 package groups to move
+Station 1: Workload set. Station 1 has 3 package groups to move
+Station 0: holds lock on (granted access) to conveyor 2
+Station 1: holds lock on (granted access) to conveyor 0
+Station 2: holds lock on (granted access) to conveyor 1
+Station 0: unlocks (released access) to conveyor 2
+Station 2: unlocks (released access) to conveyor 1
+Station 1: holds lock on (granted access) to conveyor 1
+Station 1: successfully moves packages on conveyor 1
+Station 2: holds lock on (granted access) to conveyor 1
+Station 2: unlocks (released access) to conveyor 1
+Station 0: holds lock on (granted access) to conveyor 0
+Station 0: unlocks (released access) to conveyor 0
+Station 2: holds lock on (granted access) to conveyor 1
+Station 1: has 2 package groups to move
+
+
+Station 2: unlocks (released access) to conveyor 1
+Station 1: unlocks (released access) to conveyor 0
+Station 0: holds lock on (granted access) to conveyor 0
+Station 1: unlocks (released access) to conveyor 1
+Station 0: unlocks (released access) to conveyor 0
+Station 1: holds lock on (granted access) to conveyor 0
+Station 2: holds lock on (granted access) to conveyor 1
+Station 1: holds lock on (granted access) to conveyor 1
+Station 0: holds lock on (granted access) to conveyor 0
+Station 2: unlocks (released access) to conveyor 1
+Station 1: successfully moves packages on conveyor 1
+Station 0: unlocks (released access) to conveyor 0
+Station 2: holds lock on (granted access) to conveyor 1
+Station 2: unlocks (released access) to conveyor 1
+Station 1: has 1 package groups to move
+
+
+Station 0: holds lock on (granted access) to conveyor 0
+Station 1: unlocks (released access) to conveyor 0
+Station 0: unlocks (released access) to conveyor 0
+Station 2: holds lock on (granted access) to conveyor 1
+Station 1: unlocks (released access) to conveyor 1
+Station 2: holds lock on (granted access) to conveyor 2
+Station 0: holds lock on (granted access) to conveyor 2
+Station 2: successfully moves packages on conveyor 2
+Station 0: unlocks (released access) to conveyor 2
+Station 1: holds lock on (granted access) to conveyor 1
+Station 2: has 3 package groups to move
+
+
+Station 1: unlocks (released access) to conveyor 1
+Station 2: unlocks (released access) to conveyor 1
+Station 1: holds lock on (granted access) to conveyor 0
+Station 0: holds lock on (granted access) to conveyor 2
+Station 2: unlocks (released access) to conveyor 2
+Station 1: unlocks (released access) to conveyor 0
+Station 0: holds lock on (granted access) to conveyor 0
+Station 1: holds lock on (granted access) to conveyor 0
+Station 0: successfully moves packages on conveyor 0
+Station 1: unlocks (released access) to conveyor 0
+Station 2: holds lock on (granted access) to conveyor 2
+Station 0: has 1 package groups to move
+
+
+Station 2: unlocks (released access) to conveyor 2
+Station 0: unlocks (released access) to conveyor 2
+Station 1: holds lock on (granted access) to conveyor 0
+Station 0: unlocks (released access) to conveyor 0
+Station 1: holds lock on (granted access) to conveyor 1
+Station 2: holds lock on (granted access) to conveyor 1
+Station 1: successfully moves packages on conveyor 1
+Station 2: unlocks (released access) to conveyor 1
+Station 0: holds lock on (granted access) to conveyor 0
+Station 0: unlocks (released access) to conveyor 0
+Station 1: has 0 package groups to move
+
+
+Station 2: holds lock on (granted access) to conveyor 1
+Station 2: unlocks (released access) to conveyor 1
+Station 0: holds lock on (granted access) to conveyor 0
+
+* * Station 1: Workload successfully completed. * *
+
+
+Station 0: unlocks (released access) to conveyor 0
+Station 1: unlocks (released access) to conveyor 0
+Station 2: holds lock on (granted access) to conveyor 1
+Station 1: unlocks (released access) to conveyor 1
+Station 0: holds lock on (granted access) to conveyor 2
+Station 2: holds lock on (granted access) to conveyor 2
+Station 0: unlocks (released access) to conveyor 2
+Station 2: successfully moves packages on conveyor 2
+Station 0: holds lock on (granted access) to conveyor 2
+Station 0: unlocks (released access) to conveyor 2
+Station 2: has 2 package groups to move
+
+
+Station 2: unlocks (released access) to conveyor 1
+Station 0: holds lock on (granted access) to conveyor 2
+Station 2: unlocks (released access) to conveyor 2
+Station 0: holds lock on (granted access) to conveyor 0
+Station 0: successfully moves packages on conveyor 0
+Station 0: has 0 package groups to move
+
+
+Station 2: holds lock on (granted access) to conveyor 2
+
+* * Station 0: Workload successfully completed. * *
+
+
+Station 2: unlocks (released access) to conveyor 2
+Station 0: unlocks (released access) to conveyor 2
+Station 2: holds lock on (granted access) to conveyor 1
+Station 0: unlocks (released access) to conveyor 0
+Station 2: holds lock on (granted access) to conveyor 2
+Station 2: successfully moves packages on conveyor 2
+Station 2: has 1 package groups to move
+
+
+Station 2: unlocks (released access) to conveyor 1
+Station 2: unlocks (released access) to conveyor 2
+Station 2: holds lock on (granted access) to conveyor 1
+Station 2: holds lock on (granted access) to conveyor 2
+Station 2: successfully moves packages on conveyor 2
+Station 2: has 0 package groups to move
+
+
+
+* * Station 2: Workload successfully completed. * *
+
+
+Station 2: unlocks (released access) to conveyor 1
+Station 2: unlocks (released access) to conveyor 2
+
+* * * * ALL WORKLOADS COMPLETE * * * SIMULATION ENDS * * * *
+
